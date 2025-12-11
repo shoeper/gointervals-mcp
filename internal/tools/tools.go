@@ -1,7 +1,7 @@
 package tools
 
 import (
-	"intervalsicu-mcp/internal/config"
+	"github.com/shoeper/gointervals-mcp/internal/config"
 
 	"github.com/mark3labs/mcp-go/server"
 )

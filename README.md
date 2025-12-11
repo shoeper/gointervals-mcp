@@ -1,3 +1,6 @@
+# gointervals-mcp
+
+gointervals-mcp is an mcp server for https://intervals.icu/.
 
 # Build
 
