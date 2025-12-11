@@ -1,0 +1,10 @@
+package: intervalsclient
+generate:
+  models: true
+  client: true
+  embedded-spec: true
+output: client.go
+output-options:
+  exclude-schemas:
+    - DeleteEventsResponse
+  skip-prune: true
